@@ -1,0 +1,851 @@
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\ApplicationInsights.config
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\csc.exe
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\vbc.exe
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll.config
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.pdb
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Owin.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\WebGrease.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.pdb
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.dll
+c:\users\pgovindaraji\documents\visual studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.pdb
+C:\Users\PGovindaraji\Documents\Visual Studio 2015\Projects\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.csprojResolveAssemblyReference.cache
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\ApplicationInsights.config
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\csc.exe
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\vbc.exe
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll.config
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.pdb
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Owin.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\WebGrease.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.dll
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.pdb
+C:\Users\logambal\Downloads\QuizManagerWeb_updated\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.csprojResolveAssemblyReference.cache
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\ApplicationInsights.config
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\csc.exe
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\vbc.exe
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll.config
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.pdb
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Owin.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\WebGrease.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.csprojResolveAssemblyReference.cache
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.pdb
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\ApplicationInsights.config
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\csc.exe
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\vbc.exe
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll.config
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.pdb
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Owin.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\WebGrease.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.pdb
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.xml
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.csprojResolveAssemblyReference.cache
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.dll
+E:\Quiz Web app\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.pdb
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\ApplicationInsights.config
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\csc.exe
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\vbc.exe
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll.config
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.pdb
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Owin.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\WebGrease.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.dll
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.pdb
+C:\Users\logambal\Desktop\Demo\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.csprojResolveAssemblyReference.cache
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\ApplicationInsights.config
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\csc.exe
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\vbc.exe
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll.config
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.pdb
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Owin.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\WebGrease.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.pdb
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.xml
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.dll
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.pdb
+E:\Quiz Web app\QuizManagerWeb_06_08\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.csprojResolveAssemblyReference.cache
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\ApplicationInsights.config
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\csc.exe
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\vbc.exe
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll.config
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.pdb
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Owin.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\WebGrease.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.pdb
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.xml
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.dll
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.pdb
+E:\QuizManager Web APP\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.csprojResolveAssemblyReference.cache
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\ApplicationInsights.config
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\csc.exe
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\vbc.exe
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll.config
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\QuizManagerWeb.pdb
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Owin.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\WebGrease.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Antlr3.Runtime.pdb
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\EntityFramework.SqlServer.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.Web.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\Newtonsoft.Json.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Net.Http.Formatting.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Helpers.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.Owin.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Http.WebHost.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Mvc.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Optimization.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.Razor.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.dll
+C:\Loga Data\QMWeb\QuizManagerWeb-20161228T112230Z\QuizManagerWeb\QuizManagerWeb\obj\Debug\QuizManagerWeb.pdb
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\ApplicationInsights.config
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\csc.exe
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\vbc.exe
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\QuizManagerWeb.dll.config
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\QuizManagerWeb.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\QuizManagerWeb.pdb
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Antlr3.Runtime.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\EntityFramework.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\EntityFramework.SqlServer.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.Web.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.ApplicationInsights.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Newtonsoft.Json.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Owin.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Net.Http.Formatting.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Helpers.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Http.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Http.Owin.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Http.WebHost.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Mvc.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Optimization.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Razor.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.WebPages.Deployment.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.WebPages.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.WebPages.Razor.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\WebGrease.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Antlr3.Runtime.pdb
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\EntityFramework.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\EntityFramework.SqlServer.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.Web.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.ApplicationInsights.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\Newtonsoft.Json.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Net.Http.Formatting.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Helpers.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Http.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Http.Owin.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Http.WebHost.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Mvc.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Optimization.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.Razor.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.WebPages.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.WebPages.Deployment.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\bin\System.Web.WebPages.Razor.xml
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\obj\Debug\QuizManagerWeb.csprojResolveAssemblyReference.cache
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\obj\Debug\QuizManagerWeb.dll
+F:\MY_OWN\QuizWeb\QuizManagerWeb - Copy\QuizManagerWeb\obj\Debug\QuizManagerWeb.pdb

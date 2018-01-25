@@ -1,0 +1,60 @@
+﻿
+<div class="index">
+    <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12 text-left">
+                    <ul class="nav_menus pro-img">
+                        <li><img src="img/profile-pic.png" alt="" class="img-rounded img-profile"></li>
+                        <li style="padding-top: 7px;"><span>{{sessionObject.firstName || sessionObject.userName}}</span><br><span>{{sessionObject.lastName}}</span></li>
+                        <li class="navbar_margin">Score <span ng-bind="Score"></span></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4 col-xs-6  col-sm-4 text-center">
+                    <ul class="nav_menus">
+                        <li class="navbar_margin"><span ng-bind="sessionObject.courseName"></span></li>
+                        @*<li ng-bind="Score"></li>*@
+                    </ul>
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-6 text-right">
+                    <ul class="nav_menus">
+                        <li class="pin_menu"><span ng-bind="sessionObject.sessionCode"></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- Header -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    @*<p class="sub-label" ng-bind="sessionObject.courseName"></p>*@
+                    <p class="text_only">
+                    Waiting for quiz to start</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="scroll-top page-scroll visible-xs visible-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+    <div>
+     
+
+        <button class="btn btn-primary" id="aspectID" style="display:none;" ng-click="goToAspects()">
+            Assume that we got response.
+        </button>
+
+    </div>
+
+    <div>
+        <button class="btn btn-primary" id="questionID11" style="display:none;"  ng-click="goToQuestions1()">
+            Assume that we got response - New btn.
+        </button>
+    </div>
+</div>

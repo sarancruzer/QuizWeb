@@ -1,0 +1,76 @@
+﻿<div class="index">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12 text-left">
+                    <ul class="nav_menus pro-img">
+                        <li><img src="img/profile-pic.png" alt="" class="img-rounded img-profile"></li>
+                        <li style="padding-top: 7px;"><span>{{sessionObject.firstName || sessionObject.userName}}</span><br><span>{{sessionObject.lastName}}</span></li>
+                        <li class="navbar_margin">Score <span ng-bind="Score"></span></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 col-xs-6  col-sm-4 text-center">
+                    <ul class="nav_menus">
+                        <li class="navbar_margin"><span  ng-bind="sessionObject.courseName"></span></li>
+                    </ul>
+                </div>
+                
+                <div class="col-md-4 col-sm-4 col-xs-6 text-right">
+                    <ul class="nav_menus">
+                        <li class="pin_menu"><span ng-bind="sessionObject.sessionCode"></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- Header -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                     <p class="intro-text">Pick an aspect of your choosing</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+      <section id="">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 grids" ng-repeat="aspect in aspects" ng-if="$index==0">
+                    <div class="aspect_grid1" ng-style={'background-color':"#F68B1F"} ng-click="goToQuestionsPage(aspect)" ng-if="$index==0">
+                        {{aspect.aspectName}}
+                    </div>
+                </div>
+                <div class="col-sm-12 grids" ng-repeat="aspect in aspects" ng-if="$index==1">
+                    <div class="aspect_grid1" ng-style={'background-color':"#2FBCD0"} ng-click="goToQuestionsPage(aspect)" ng-if="$index==1">
+                        {{aspect.aspectName}}
+                    </div>
+                </div>
+                <div class="col-sm-12 grids" ng-repeat="aspect in aspects" ng-if="$index==2">
+                    <div class="aspect_grid1" ng-style={'background-color':"#EC74A9"} ng-click="goToQuestionsPage(aspect)" ng-if="$index==2">
+                        {{aspect.aspectName}}
+                    </div>
+                </div>
+                <div class="col-sm-12 grids" ng-repeat="aspect in aspects" ng-if="$index==3">
+                    <div class="aspect_grid1" ng-style={'background-color':"#F15A6B"} ng-click="goToQuestionsPage(aspect)" ng-if="$index==3">
+                        {{aspect.aspectName}}
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <div>
+        <button class="btn btn-primary" id="questionID10" style="display:none;"  ng-click="loga()">
+            Assume that we got response.
+        </button>
+    </div>
+    
+    <div class="scroll-top page-scroll visible-xs visible-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+</div>

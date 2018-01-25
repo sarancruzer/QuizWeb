@@ -1,0 +1,246 @@
+/*LOGIN FORM*/
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+.login-form {
+	width: 90% !important;
+}
+.login-form {
+	margin: 0 auto;
+	padding: 20px;
+	margin-top: 5%;
+}
+
+}
+
+@media only screen and (min-width: 250px) and (max-width: 768px) {
+body.login-bg {
+	background-size: auto;
+}
+.login-form {
+	margin: 0 auto;
+	padding: 20px;
+	margin-top: 5%;
+}
+
+p.sub-label {
+    color: #111;
+    float: right;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 4px 10px;
+    position: fixed;
+    right: 10px;
+    top: 120px;
+}
+section.quiz-txt {
+    margin-top: 115px;
+}
+section.quiz-txt .grids {
+	display: table;
+	width: 100%;
+	margin-bottom: 5px;
+}
+.aspect_grid1 ,.aspect_grid2,.aspect_grid3,.aspect_grid4 {
+	width: 100vw;
+	display: table-cell;
+	vertical-align: middle;
+	height: 100px;
+}
+img.img-profile {
+	margin-top: 0px;
+}
+.text-center ul.nav_menus {
+	text-align: left;
+}
+.ans-footer {
+	position: unset;
+}
+.guest_radio {
+    margin-bottom: 20px !important;
+}
+.login-form .form-control {
+	width: 100%
+}
+.login_button {
+    float: left;
+    margin-bottom: 13px;
+    width: 100%;
+	position: unset;
+
+}
+.top-corner-holder {
+	position: relative;
+}
+.top-corner {
+    position: absolute;
+    right: 0;
+    top: 4px;
+    width: 100%;
+}
+p.sub-label {
+	margin-right: -15px;
+}
+.mrgn-top {
+	margin-top: 5%;
+}
+span.msg {
+    right: 0;
+    top: -31px;
+}
+span.alert {
+    right: 0;
+    top: -24%;
+}
+}
+@media only screen and (min-width: 769px) and (max-width: 1300px) {
+.ans-footer {
+	position: unset;
+}
+p.sub-label {
+	top: 62px;
+}
+}
+@media only screen and (min-width: 769px) and (max-width: 800px) {
+section.quiz-txt {
+    margin-top: 90px;
+}
+section.quiz-txt .grids {
+	display: table;
+	width: 100%;
+	margin-bottom: 5px;
+}
+.aspect_grid1 ,.aspect_grid2,.aspect_grid3,.aspect_grid4 {
+	width: 100%;
+	display: table-cell;
+	vertical-align: middle;
+	height: 100px;
+}
+img.img-profile {
+	margin-top: 0px;
+}
+.intro-text {
+	margin-top: 0;
+}
+}
+@media (max-width:340px) {
+.guest_radio {
+	text-align:left;
+}
+.guest_radio input {
+	position:inherit !important; left:auto !important; top:7px !important
+}
+.log-btn {
+	width:90%; 
+}
+}
+}
+
+@media (max-width:600px) {
+	.msg {	
+		display:block; position:inherit; top:auto; right:auto; margin-top:10px
+	}
+	.alert {
+		display:none; position:inherit; top:auto; right:auto; margin-top:10px; background-color:transparent;
+		color:red
+	}
+
+	.login-form input[type="checkbox"], .login-form input[type="radio"] {
+		position:absolute; left:55%
+	}
+.ans-footer {
+	position: unset;
+}
+	
+}
+
+/*PICK AN ASPECT*/
+@media (max-width:480px) {
+	.img-profile {
+		margin-left:10%
+	}
+	.intro-text {
+	 margin-bottom:0
+	}	
+	p {
+		font-size:18px
+	}
+	.scroll-top {
+		display:none !important
+	}
+}
+
+@media (min-width:481px) and (max-width:800px) {
+	.intro-text {
+	 margin-bottom:0;
+	}
+	.scroll-top {
+		display:none !important
+	}
+	
+}
+
+/*	QUIZ*/
+@media (max-width:480px) {
+	section {
+		padding:15px 0
+	}
+	.parag_text {
+		margin-top:10%
+	}
+	.questionspar {
+		font-weight:bold
+	}
+}
+@media (min-width:481px) and (max-width:800px){
+
+	.intro-text, .parag_text {
+		margin-bottom:7%
+	}
+	.questionspar {
+		font-weight:bold
+	}
+}
+
+/*WAITING FOR NEXT ROUND*/
+@media (max-width:480px) {
+	.text_only {
+		margin-top:100%
+	}
+}
+@media (min-width:481px) and (max-width:800px) {
+	.text_only {
+		margin-top:50%
+	}
+}
+
+.flexAlign {
+	display: flex;
+	justify-content: center
+}
+.text-overflow {
+	height: 185px;
+	overflow-y: auto;
+	color: #fff
+}
+.grid1, .grid2, .grid3, .grid4 {
+	height: 260px
+}
+.grid1 {
+	padding: 5% 0
+}
+.first_col {
+	height: 250px;
+    overflow: auto;
+}
+
+
+/* Equal column for answers  */
+@media screen and (max-width: 425px) {
+	.text-overflow {
+		height: 125px;
+		overflow-y: auto;
+		color: #fff
+	}
+	.grid1, .grid2, .grid3, .grid4 {
+		height: 165px
+	}
+}

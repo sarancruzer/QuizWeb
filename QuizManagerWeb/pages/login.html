@@ -1,0 +1,25 @@
+<div class="login-form" ng-init="sessionFound=false">
+    <form ng-submit="checkLogin()">
+        <div class="form-group ">
+            <label for="exampleInputEmail1">Session Code</label>
+            <input type="text" class="form-control" placeholder="Session code here " id="UserName" ng-model="login.sessionCode" ng-keyup="sessionCodeValidation()" ng-required="true"> <span class="msg" ng-show="sessionFound"> ABF8 Session Found!</span>
+            <span class="msg" style="background-color: #df5f4a;" ng-show="invalidSessionCode">Enter valid session code.</span>
+        </div>
+        <div class="form-group guest_radio">
+            <input type="checkbox" ng-model="guestLogin" />
+            <label for="exampleInputEmail1">Join as Guest</label>
+        </div>
+        <div class="form-group ">
+            <label for="exampleInputEmail1">Username</label>
+            <input type="text" class="form-control" placeholder="Username " id="UserName" ng-required="true" ng-model="login.userName"> <span class="alert" ng-show="userNameExistErr"> Name is already taken</span>
+        </div>
+        <div class="form-group log-status" ng-if="!guestLogin">
+            <label for="exampleInputEmail1">Password</label>
+            <input type="password" class="form-control" placeholder="Password" id="Password" ng-required="true" ng-model="login.password">
+        </div>
+        <span style="color:#a94442" ng-show="credentialsMismatch">Incorrect username or password</span>
+        <button type="submit" class="log-btn">Join Session</button>
+    </form>
+</div>
+<div class="container">
+</div>

@@ -1,0 +1,151 @@
+﻿
+<div>
+    <div ng-init="sessionFound=false">
+        <form id="loginform">
+            <div class="login-form">
+                <h1><img src="img/logo1.png"></h1>
+                <div class="form-group ">
+
+
+                    <label for="exampleInputEmail1">Session Code</label>
+                    <input type="text" class="form-control" placeholder="Session code here " id="UserName" ng-model="login.sessionCode" ng-keyup="sessionCodeValidation()" ng-required="true"> <span class="msg" ng-show="sessionFound"> {{login.sessionCode}} Session Found!</span>
+                    <span class="msg" style="background-color: #df5f4a;" ng-show="invalidSessionCode">Enter valid session code.</span>
+                </div>
+                @*<div class="form-group guest_radio">
+                        <input type="checkbox" ng-model="guestLogin" />
+                        <label for="exampleInputEmail1">Join as Guest</label>
+                    </div>*@
+                <div class="form-group guest_radio">
+                    <div class="login-guest"><span>Join as Guest</span></div>
+                    <div class="login-sw">
+                        <input type="checkbox" ng-model="guestLogin" value="None" id="login-sw" name="check" checked />
+                        <label for="login-sw"></label>
+                    </div>
+
+                </div>
+
+                <div class="form-group ">
+                    <label for="exampleInputEmail1">Username</label>
+                    <input type="text" class="form-control" placeholder="Username " id="UserName" ng-required="true" ng-model="login.userName"> <span class="alert" style="display: none;" id="userNameErr"> Name is already taken</span>
+                </div>
+                <div class="form-group log-status" ng-if="!guestLogin">
+                    <label for="exampleInputEmail1">Password</label>
+                    <input type="password" class="form-control" placeholder="Password" id="Password" ng-required="true" ng-model="login.password"><span class="alert" style="display: none;" id="userloginErr">Invalid Credentials</span>
+                </div>
+                @*<span style="color:#a94442" ng-show="credentialsMismatch">Incorrect username or password</span>*@
+                <button type="submit" class="log-btn" ng-click="checkLogin()">Join Session</button>
+                @* For Test *@
+                <ul id="messages" style="display:none;"></ul>
+                <p id="logindetails">{{sessionObject}}</p>
+                @*<h3>{{absoluteUrl}}</h3>*@
+                <button class="btn btn-primary" id="mainpageLoad" style="display:none;" href="javascript:void(0)" ng-click="goToMainPage()">
+                    Assume that we got response.
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script type="text/javascript" src="~/Scripts/jquery-3.1.0.min.js"></script>
+<script type="text/javascript" src="~/Scripts/jquery.signalR-2.2.1.min.js"></script>
+
+<script type="text/javascript">
+
+    var data;
+    function htmlEncode(value) {
+        return $("<div/>").text(value).html();
+    }
+
+    function addMsg(msg) {
+        $("#messages").append("<li>" + htmlEncode(msg) + "</li>");
+    }
+
+    $(document).ready(function () {
+
+        var aspect = "";
+        var questions = "";
+        $('#logindetails').hide();
+        $(".log-btn").click(function () {
+
+            var connection = $.connection("./echo", "sessionCode=" + $("#UserName").val(), true);
+            console.log(connection);
+            setTimeout(function () {
+                connection.received(function (data) {
+                    var stringdata = JSON.stringify(data);
+                    var jsonData = jQuery.parseJSON(data);
+                    if (data.indexOf('userName') > -1)
+                    {
+                        jQuery("#mainpageLoad").click();
+                    }
+                    if (jsonData.hasOwnProperty('AspectLists')) {
+                        aspect = jQuery.parseJSON(data);
+                        aspectObj = aspect;
+                        jQuery("#aspectID").click();
+                    }
+
+                    if (jsonData.hasOwnProperty('questionID')) {
+                        console.log($('.imghid').length);
+                        console.log($('.imghid').length);
+                        //alert("insede question loop");
+                        questions = jQuery.parseJSON(data);
+                        questionObj = questions;
+                        for (i = 0; i < 100; i++) {
+                            window.clearInterval(i);
+                        }
+                      
+                        if (questions.questionType == "first") {
+                            jQuery("#questionID11").click();
+                            jQuery("#questionID10").click();
+                        }
+
+
+                        if (questions.questionType == "second") {
+                            console.log("received question 2");
+                            jQuery("#secondquestionID").click();
+                        }
+                        if (questions.questionType == "third") {
+                            console.log("received question 3");
+                            jQuery("#thirdquestionID").click();
+                        }
+                     
+                    }
+                    //if (aspect.indexOf('aspectName') > -1) {
+                    //    aspectObj = aspect;
+                    //}
+                    addMsg(data);
+                    
+                });
+            }, 3000);
+
+            connection.disconnected(function () {
+                setTimeout(function () {
+                    connection.start();
+                }, 5000); // Restart connection after 5 seconds.
+            });
+
+            connection.error(function (err) {
+                addMsg("Error: " + err);
+            });
+
+            addMsg("Connecting...");
+            setTimeout(function () {
+                connection.start(function () {
+
+                    addMsg("Connected.");
+                    data = $("#loginform").find("p").text();
+                    connection.send(data).await();
+                    
+                });
+            }, 3000);
+
+
+
+
+            //$("#send").click(function () {
+            //    connection.send($("#msg").val());
+            //});
+        });
+    });
+</script>
+
+

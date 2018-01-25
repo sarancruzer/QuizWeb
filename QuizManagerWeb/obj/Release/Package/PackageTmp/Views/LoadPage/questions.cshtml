@@ -1,0 +1,190 @@
+﻿
+<style type="text/css">
+    .disabledbutton {
+        pointer-events: none;
+        opacity: 0.4;
+    }
+
+    .hidediv {
+        display: none;
+    }
+    
+</style>
+<div class="index">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12 text-left">
+                    <ul class="nav_menus pro-img">
+                        <li><img src="img/profile-pic.png" alt="" class="img-rounded img-profile"></li>
+                        <li style="padding-top: 7px;"><span>{{sessionObject.firstName || sessionObject.userName}}</span><br><span>{{sessionObject.lastName}}</span></li>
+                        <li class="navbar_margin">Score <span ng-bind="Score"></span></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 col-xs-6  col-sm-4 text-center">
+                    <ul class="nav_menus">
+                        <li class="navbar_margin"><span ng-bind="sessionObject.courseName"></span></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-6 text-right">
+                    <ul class="nav_menus">
+                        <li class="pin_menu"><span ng-bind="sessionObject.sessionCode"></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- Header -->
+    <div ng-repeat="question in questions">
+
+        <section class="quiz-txt">
+            <div id="question_content" ng-hide="hidecontent">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            @*<p class="sub-label" ng-bind="sessionObject.courseName" ng-show="largeanswers"></p>*@
+                            <p class="intro-text">{{::question.questionTitle}}<span class="name"> - By {{::question.author}}</span></p>
+                            @*<span>{{::sessionObject.aspect.aspectName}}</span>*@
+                            <span>{{::question.aspect_names}}</span>
+                        </div><!--col end-->
+                    </div><!--row end-->
+                </div><!--container fluid end-->
+                <div class="container">
+                    <div class="row" style="">
+                        <div class="col-md-12 col-sm-12">
+                            <p class="parag_text">{{::question.question}}</p>
+                            <p class="parag_text" ng-show="contentimagefound"><img id="img_content" ng-src="{{contentsource}}"></p>
+                            <p class="parag_text" ng-show="contentvideofound"><video id="video_content" width="345" height="200"  style="border:0" autoplay controls><source type="video/mp4"  ng-src="{{trustSrc(contentsource)}}"></video></p>
+                            <p class="parag_text" ng-show="contentaudiofound"><audio id="audio_content" controls autoplay> <source ng-src="{{trustSrc(contentsource)}}" type="audio/mpeg"></audio></p>
+                        </div>
+                    </div>
+                </div>
+
+                <!--container fluid end-->
+                @*<div class="container-fluid">
+                        <div class="row">
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <p class="sub-label" ng-bind="sessionObject.course"></p>
+                                <p class="parag_text">{{::question.content}}</p>
+                                <p class="parag_text" ng-show="contentimagefound"><img src="img/portfolio/LandOnMoon.jpg"></p>
+                                <span>{{::sessionObject.aspect.aspectName}}</span>
+                            </div>
+                            <button class="btn btn-primary" id="questionID" style="display:none" href="javascript:void(0)" ng-click="goToMain()">
+                                Assume Button
+                            </button>
+                        </div>
+                    </div>*@
+            </div>
+            <div class="container-fluid" ng-show="largeanswers">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p class="sub-label" ng-bind="sessionObject.courseName" ></p>
+                    </div><!--col end-->
+                </div><!--row end-->
+            </div>
+            <div id="large_answers" class="container quiz-txt" ng-show="largeanswers">
+                <div class="row" style="">
+                    <div class="col-md-12 col-sm-12">
+                        <div class="col-sm-6 grids" ng-init="firstIdVar = trmingAnswer(question.firstAnswer)" ng-click="validateAnswer(question,question.firstAnswer,question.ans1Image,0,1)" 
+                             id="firstAnswer">
+                            <div class="hg_grid1" style="background-color:#F68B1F">
+                                <span ng-hide="hideanswertext" style="margin-right:10px;"> {{::question.firstAnswer}}</span>
+                                <img id="img_firstans" ng-class="firstclass" ng-show="contentfirstansimagefound" ng-src="{{firstansimagesource}}">
+                            </div>
+                        </div>
+                        <div class="col-sm-6 grids" ng-init="secIdVar = trmingAnswer(question.secondAnswer)" ng-click="validateAnswer(question,question.secondAnswer,question.ans2Image,1,1)" id="secondAnswer">
+                            <div class="hg_grid2" style="background-color:#2FBCD0">
+                                <span ng-hide="hideanswertext">{{::question.secondAnswer}}</span>
+                                <img id="img_secondans" ng-class="secondclass" ng-show="contentsecondansimagefound" ng-src="{{secondansimagesource}}">
+                            </div>
+                        </div>
+                        <div class="col-sm-6 grids" ng-init="thirdIdVar = trmingAnswer(question.thirdAnswer)" ng-click="validateAnswer(question,question.thirdAnswer,question.ans3Image,2,1)" id="thirdAnswer">
+                            <div class="hg_grid3"  style="background-color:#8863A9">
+                                <span ng-hide="hideanswertext">{{::question.thirdAnswer}}</span>
+                                <img id="img_thirdans" ng-class="thirdclass" ng-show="contentthirdansimagefound" ng-src="{{thirdansimagesource}}">
+                            </div>
+                        </div>
+                        <div class="col-sm-6 grids" ng-init="fourthIdVar = trmingAnswer(question.fourthAnswer)" ng-click="validateAnswer(question,question.fourthAnswer,question.ans4Image,3,1)" id="fourthAnswer">
+                            <div class="hg_grid4" style="background-color:#EC74A9">
+                                <span ng-hide="hideanswertext">{{::question.fourthAnswer}}</span>
+                                <img id="img_fourthans" ng-class="fourthclass" ng-show="contentfourthansimagefound" ng-src="{{fourthansimagesource}}">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+     
+
+
+        <section class="ans-footer" id="" style="padding-bottom: 0px;">
+            <div class="container-fluid">
+                <div class="row" ng-hide="hidecontent">
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                            <span id="secondsDom" style="float: right;margin-right: 25px;margin-top: -9px;"></span>
+                        </div>
+                    </div>
+                </div>
+                <div id="answer_div" class="row" ng-hide="hidecontent">
+                    <div>
+                        <div class="col-sm-6 grids" ng-class="firstanswerclass"  ng-init="firstIdVar = trmingAnswer(question.firstAnswer)" ng-click="validateAnswer(question,question.firstAnswer,question.ans1Image,0,1)" id="firstAnswer">
+                            <div class="grid1" style="background-color:#F68B1F">
+                                {{::question.firstAnswer}}
+                                <img id="img_firstans" ng-class="firstclass" ng-show="contentfirstansimagefound" ng-src="{{firstansimagesource}}">
+                            </div>
+                        </div>
+                        <div class="col-sm-6 grids" ng-class="secondanswerclass" ng-init="secIdVar = trmingAnswer(question.secondAnswer)" ng-click="validateAnswer(question,question.secondAnswer,question.ans2Image,1,1)" id="secondAnswer">
+                            <div class="grid2"  style="background-color:#2FBCD0">
+                               {{::question.secondAnswer}}
+                                <img id="img_secondans" ng-class="secondclass" ng-show="contentsecondansimagefound" ng-src="{{secondansimagesource}}">
+                            </div>
+                        </div>
+                        <div class="col-sm-6 grids" ng-class="thirdanswerclass" ng-init="thirdIdVar = trmingAnswer(question.thirdAnswer)" ng-click="validateAnswer(question,question.thirdAnswer,question.ans3Image,2,1)" id="thirdAnswer">
+                            <div class="grid3" style="background-color:#8863A9">
+                                {{::question.thirdAnswer}}
+                                <img id="img_thirdans" ng-class="thirdclass"  ng-show="contentthirdansimagefound" ng-src="{{thirdansimagesource}}">
+                            </div>
+                        </div>
+                        <div class="col-sm-6 grids" ng-class="fourthanswerclass" ng-init="fourthIdVar = trmingAnswer(question.fourthAnswer)" ng-click="validateAnswer(question,question.fourthAnswer,question.ans4Image,3,1)" id="fourthAnswer">
+                            <div class="grid4" style="background-color:#EC74A9">
+                                {{::question.fourthAnswer}}
+                                <img id="img_fourthans" ng-class="fourthclass" ng-show="contentfourthansimagefound" ng-src="{{fourthansimagesource}}">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div>
+        <button class="btn btn-primary" id="secondquestionID" style="display:none;"  ng-click="goTosecondQuestions()"></button>
+    </div>
+
+    <div>
+        <button class="btn btn-primary" id="thirdquestionID" style="display:none;" href="javascript:void(0)" ng-click="goTothirdQuestions()"></button>
+    </div>
+    @*<button class="btn btn-primary" id="hide_content" style="display:none;" href="javascript:void(0)" ng-click="hideContent()"></button>*@
+
+    <div class="scroll-top page-scroll visible-xs visible-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+</div>
+
+@*<script>
+
+            $("#hide_content").on("click", function () {
+                alert("trig");
+                $("#question_content *").addClass("hidediv");
+                $(".progress *").addClass("hidediv");
+            });
+    </script>*@
+
